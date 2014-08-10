@@ -16,7 +16,7 @@ This Google Cast demo application shows how to send messages from an Chrome desk
 * Upload the chromehellotext.html file to your hosting server and load the URL for that file in your Chrome browser.
 
 ## References and How to report bugs
-* Cast APIs: http://developers.google.com/cast/docs
+* Cast APIs: http://developers.google.com/cast
 * Design Checklist (http://developers.google.com/cast/docs/design_checklist)
 * If you find any issues, please open a bug here on GitHub
 
